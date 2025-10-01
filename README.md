@@ -1,16 +1,56 @@
-# simpleportfolio
+# 🌟 Simple Portfolio (Flutter App)
 
-A new Flutter project.
+🚀 A simple and beautiful **Flutter Portfolio App** designed to showcase personal details, education, contact info, and bio in a clean and professional way.  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
+- 💫 **Splash Screen** with logo + loading animation  
+- 🌠 **Animated Background** (Lottie shooting stars)  
+- 👤 **Profile Section** (photo, name, role)  
+- 🎓 **Education & Contact Details**  
+- 📝 **About Me Section** with bio  
+- 📱 Responsive design (scrollable content)  
 
-A few resources to get you started if this is your first Flutter project:
+------------------------------------------------------------------------------
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🖼️ Screenshots
+(Add your screenshots here e.g. `assets/screenshots/splash.png`, `home.png`)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+------------------------------------------------------------------------------
+
+## 🛠️ Built With
+- [Flutter](https://flutter.dev/) 💙
+- [Flutter Spinkit](https://pub.dev/packages/flutter_spinkit) ⏳
+- [Lottie](https://pub.dev/packages/lottie) 🎨
+
+------------------------------------------------------------------------------
+lib/
+├── main.dart → App entry point
+├── splash.dart → Splash screen
+└── home.dart → Home screen
+assets/
+├── images + animations
+
+------------------------------------------------------------------------------
+
+## 📱 How It Works
+1. App opens → Splash Screen with logo + loader ⏳  
+2. After 4 seconds → Navigate to Home Screen 🚀  
+3. Home screen shows → Profile + Education + Contact + About section 👨‍💻  
+
+------------------------------------------------------------------------------
+
+## ✨ Future Improvements
+- 📧 Clickable Email & Phone links  
+- 🌙 Dark/Light mode  
+- 🌐 Multi-language support  
+- 🖼️ Portfolio projects gallery  
+
+------------------------------------------------------------------------------
+
+## 🏆 Author
+Created by **⭒Ằℓῖ 👑**  
+
+
+## 📂 Project Structure
